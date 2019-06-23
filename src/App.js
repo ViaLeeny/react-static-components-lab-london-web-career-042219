@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, Component from 'react';
 import CatComponent from './CatComponent.js';
 import { EinsteinQuoteComponent } from './EinsteinQuoteComponent';
 import MouseComponent from './MouseComponent';
